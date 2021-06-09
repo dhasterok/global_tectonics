@@ -10,6 +10,8 @@ The global_tectonics package is a set of shapefiles that can be used for analysi
 
 Details about the construction of the models is discussed in Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., (submitted) A new global geologic provinces map and an updated plate map. Earth Science Reviews.
 
+QGIS style files are also provided for displaying the shapefiles.
+
 The model is intended to be updated as new knowledge is gained about the locations and processes affecting provinces.  To do so requires community effort.  The global_tectonics GitHub repository can facilitate these updates.
 
 If you wish to contribute you may contact derrick.hasterok@adelaide.edu.au.
