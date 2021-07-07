@@ -8,7 +8,7 @@ The global_tectonics package is a set of shapefiles that can be used for analysi
   oc_boundaries.shp - lines demarcating the ocean-continent boundary
   global_gprv.shp - polygons of global geologic provinces
 
-Details about the construction of the models is discussed in Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., (submitted) A new global geologic provinces map and an updated plate map. Earth Science Reviews.
+Details about the construction of the models is discussed in Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., Gard, M., (in prep.) A new global geologic provinces map and an updated plate map. Earth Science Reviews.
 
 QGIS style files are also provided for displaying the shapefiles.
 
