@@ -1,10 +1,10 @@
 # global_tectonics
  Tectonic maps for data analysis applications in solid Earth science
 
-2021 June 09
+2021 July 07
 The global_tectonics package is a set of shapefiles that can be used for analysis of Earth science data.  It consists of four separate shapefiles:
   plates.shp - polygons of tectonic plates and crust types
-  plate_boundaries.shp - lines of plate boundary types
+  boundaries.shp - lines of plate boundary types
   oc_boundaries.shp - lines demarcating the ocean-continent boundary
   global_gprv.shp - polygons of global geologic provinces
 
