@@ -1,17 +1,19 @@
 # global_tectonics
  Tectonic maps for data analysis applications in solid Earth science
 
-2021 July 07
+2021 July 19
 The global_tectonics package is a set of shapefiles that can be used for analysis of Earth science data.  It consists of four separate shapefiles:
   plates.shp - polygons of tectonic plates and crust types
   boundaries.shp - lines of plate boundary types
   oc_boundaries.shp - lines demarcating the ocean-continent boundary
   global_gprv.shp - polygons of global geologic provinces
 
-Details about the construction of the models is discussed in Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., (submitted) A new global geologic provinces map and an updated plate map. Earth Science Reviews.
+Details about the construction of the models is discussed in Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., (submitted) New maps of global geologic provinces and tectonic plates, Earth Science Reviews.
 
-QGIS style files are also provided for displaying the shapefiles.
+Static versions with additional global geophysical and tectonic datasets can be found along with a QGIS project file on Zenodo data repository.  Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., New maps of global geologic provinces and tectonic plates: global tectonics data and QGIS project file, Zenodo, 10.5281/zenodo.5093930
 
 The model is intended to be updated as new knowledge is gained about the locations and processes affecting provinces.  To do so requires community effort.  The global_tectonics GitHub repository can facilitate these updates.
 
-If you wish to contribute you may contact derrick.hasterok@adelaide.edu.au.
+If you wish to contribute to this project, contact derrick.hasterok@adelaide.edu.au.
+
+How to cite: Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., (submitted) New maps of global geologic provinces and tectonic plates, Earth Science Reviews.
