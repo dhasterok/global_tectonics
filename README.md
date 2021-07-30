@@ -2,7 +2,7 @@
  Tectonic maps for data analysis applications in solid Earth science
 
 2021 July 19
-The global_tectonics package is a set of shapefiles that can be used for analysis of Earth science data.  There are several models as part of the package, which includes a present-day plate model and a geologic province model.  The models include metadata that permit the creation of several related (and seamless) maps including the lithospheric type (oceanic/continental), last orogenic event, and oceanic domains.  It consists of four separate shapefiles:
+The global_tectonics package is a set of shapefiles that can be used for analysis of Earth science data.  For each shapefile, there is an associated *.gmt file in Generic Mapping Tools (GMT) vector format.  There are several models as part of the package, which includes a present-day plate model and a geologic province model.  The models include metadata that permit the creation of several related (and seamless) maps including the lithospheric type (oceanic/continental), last orogenic event, and oceanic domains.  It consists of four separate shapefiles:
 
   plates.shp - polygons of tectonic plates and crust types
 
