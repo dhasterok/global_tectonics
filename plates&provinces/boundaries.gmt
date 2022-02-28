@@ -4,7 +4,7 @@
 # @Jp"+proj=longlat +datum=WGS84 +no_defs"
 # @Jw"GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4326\"]]"
 # @Nfeature_id|feature|type|comment|plate1|plate2|level|length
-# @Tdouble|string|string|string|string|string|integer|double
+# @Tinteger|string|string|string|string|string|integer|double
 # FEATURE_DATA
 >
 # @D1|"Galapagos Ridge"|"spreading center"||Galapagos|Cocos|1|48.231534940690779
@@ -2103,6 +2103,7 @@
 35.0184547090736 -21.1221642110781
 35.1873808295071 -22.5823313388076
 35.569467444211 -24.6269570640741
+35.8948571251164 -25.6276933737972
 35.9931049749946 -25.9825971625819
 >
 # @D55|"Red Sea Rift"|"spreading center"||Danakil|Arabian|1|774.838974300502286
@@ -4803,7 +4804,7 @@
 38.9528604769938 -23.0670860049288
 37.8245 -23.8804
 37.1784401063196 -24.3679864786293
-35.4854352253449 -26.0387149795911
+35.8868501757142 -25.6425818048846
 >
 # @D144|"Comoros Transform"|"dextral transform"||Somali|Comoros|2|863.432986237062437
 41.4603602528869 -11.9139885810501
