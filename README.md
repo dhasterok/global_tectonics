@@ -1,6 +1,9 @@
 # global_tectonics
  Tectonic maps for data analysis applications in solid Earth science
 
+2022 May 22
+Updated plates, boundaries, oc_boundaries and global_gprv following review.  Formats are provided as shapefiles (shp), generic mapping tools (GMT), and keyhole markup language (KML) for use with Google Earth, each in separate folders.
+
 2021 July 19
 The global_tectonics package is a set of shapefiles that can be used for analysis of Earth science data.  For each shapefile, there is an associated *.gmt file in Generic Mapping Tools (GMT) vector format.  There are several models as part of the package, which includes a present-day plate model and a geologic province model.  The models include metadata that permit the creation of several related (and seamless) maps including the lithospheric type (oceanic/continental), last orogenic event, and oceanic domains.  It consists of four separate shapefiles:
 
@@ -20,4 +23,4 @@ The model is intended to be updated as new knowledge is gained about the locatio
 
 If you wish to contribute to this project, contact derrick.hasterok@adelaide.edu.au.
 
-How to cite: Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., (submitted) New maps of global geologic provinces and tectonic plates, Earth Science Reviews.
+How to cite: Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Gard, M.G., Glorie, S., (submitted) New maps of global geologic provinces and tectonic plates, Earth Science Reviews. Preprint available (EarthArXiv) https://doi.org/10.31223/X5TD1C
