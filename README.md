@@ -23,4 +23,8 @@ The model is intended to be updated as new knowledge is gained about the locatio
 
 If you wish to contribute to this project, contact derrick.hasterok@adelaide.edu.au.
 
-How to cite: Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Gard, M.G., Glorie, S., (submitted) New maps of global geologic provinces and tectonic plates, Earth Science Reviews. Preprint available (EarthArXiv) https://doi.org/10.31223/X5TD1C
+How to cite: Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Gard, M.G., Glorie, S., (revised) New maps of global geologic provinces and tectonic plates, Earth Science Reviews. Preprint available (EarthArXiv) https://doi.org/10.31223/X5TD1C
+
+version history:
+submitted to Earth Science Reviews 18th May 2022
+revised 23rd May 2022
