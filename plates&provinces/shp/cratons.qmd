@@ -1,25 +1,16 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.24.0-Tisler">
+<qgis version="3.22.3-Białowieża">
   <identifier></identifier>
   <parentidentifier></parentidentifier>
   <language></language>
-  <type>dataset</type>
+  <type></type>
   <title></title>
   <abstract></abstract>
-  <contact>
-    <name></name>
-    <organization></organization>
-    <position></position>
-    <voice></voice>
-    <fax></fax>
-    <email></email>
-    <role></role>
-  </contact>
   <links/>
   <fees></fees>
   <encoding></encoding>
   <crs>
-    <spatialrefsys nativeFormat="Wkt">
+    <spatialrefsys>
       <wkt></wkt>
       <proj4></proj4>
       <srsid>0</srsid>
@@ -31,13 +22,5 @@
       <geographicflag>false</geographicflag>
     </spatialrefsys>
   </crs>
-  <extent>
-    <spatial maxx="0" crs="" minx="0" minz="0" maxz="0" maxy="0" dimensions="2" miny="0"/>
-    <temporal>
-      <period>
-        <start></start>
-        <end></end>
-      </period>
-    </temporal>
-  </extent>
+  <extent/>
 </qgis>
