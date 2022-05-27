@@ -14,6 +14,8 @@ The global_tectonics package is a set of shapefiles that can be used for analysi
   oc_boundaries.shp - lines demarcating the ocean-continent boundary
 
   global_gprv.shp - polygons of global geologic provinces
+  
+  cratons.shp - regions with geochemical samples or that are known to have Archean (>2500 Ma) basement;  the polygons have largely been extracted from global_gprv.shp aside from a few in the western US from Lund et al. (2015, https://doi.org/10.3133%2Fds898);  an additional column in the attribute table has been added to identify post-Archean reworking
 
 Details about the construction of the models is discussed in Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Glorie, S., (submitted) New maps of global geologic provinces and tectonic plates, Earth Science Reviews.
 
@@ -28,3 +30,4 @@ How to cite: Hasterok, D., Halpin, J., Hand, M., Collins, A., Kreemer, C., Gard,
 version history:
 submitted to Earth Science Reviews 18th May 2022
 revised 23rd May 2022
+accepted 26th May 2022
